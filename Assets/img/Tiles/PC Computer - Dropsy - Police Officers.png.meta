@@ -1,0 +1,5167 @@
+fileFormatVersion: 2
+guid: 154af7eb02308f64191345d0b871d973
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3985400045396831716
+    second: PC Computer - Dropsy - Police Officers_0
+  - first:
+      213: -7923082306573259642
+    second: PC Computer - Dropsy - Police Officers_1
+  - first:
+      213: -6848333905013193633
+    second: PC Computer - Dropsy - Police Officers_2
+  - first:
+      213: 5686836221073599916
+    second: PC Computer - Dropsy - Police Officers_3
+  - first:
+      213: -6012548874276314622
+    second: PC Computer - Dropsy - Police Officers_4
+  - first:
+      213: -6714606041920339442
+    second: PC Computer - Dropsy - Police Officers_5
+  - first:
+      213: 1373375724778311781
+    second: PC Computer - Dropsy - Police Officers_6
+  - first:
+      213: -7358309299380444296
+    second: PC Computer - Dropsy - Police Officers_7
+  - first:
+      213: -1111774777782132049
+    second: PC Computer - Dropsy - Police Officers_8
+  - first:
+      213: -4923930822351890667
+    second: PC Computer - Dropsy - Police Officers_9
+  - first:
+      213: -8182306883481216196
+    second: PC Computer - Dropsy - Police Officers_10
+  - first:
+      213: 732504016356686343
+    second: PC Computer - Dropsy - Police Officers_11
+  - first:
+      213: -7440625842443516451
+    second: PC Computer - Dropsy - Police Officers_12
+  - first:
+      213: 1144364357954192426
+    second: PC Computer - Dropsy - Police Officers_13
+  - first:
+      213: -6692065230836015576
+    second: PC Computer - Dropsy - Police Officers_14
+  - first:
+      213: -381402389311314331
+    second: PC Computer - Dropsy - Police Officers_15
+  - first:
+      213: -7087130695142668901
+    second: PC Computer - Dropsy - Police Officers_16
+  - first:
+      213: -6315184183712090017
+    second: PC Computer - Dropsy - Police Officers_17
+  - first:
+      213: 5627837957565984303
+    second: PC Computer - Dropsy - Police Officers_18
+  - first:
+      213: 4254437173645365378
+    second: PC Computer - Dropsy - Police Officers_19
+  - first:
+      213: 4197760883595411415
+    second: PC Computer - Dropsy - Police Officers_20
+  - first:
+      213: 6729893382525694509
+    second: PC Computer - Dropsy - Police Officers_21
+  - first:
+      213: -7689604982860880974
+    second: PC Computer - Dropsy - Police Officers_22
+  - first:
+      213: -4150629558740760065
+    second: PC Computer - Dropsy - Police Officers_23
+  - first:
+      213: 1302505000711923065
+    second: PC Computer - Dropsy - Police Officers_24
+  - first:
+      213: 2521487974761373176
+    second: PC Computer - Dropsy - Police Officers_25
+  - first:
+      213: 4333953570552132464
+    second: PC Computer - Dropsy - Police Officers_26
+  - first:
+      213: -245905568829429883
+    second: PC Computer - Dropsy - Police Officers_27
+  - first:
+      213: 7882018142203028516
+    second: PC Computer - Dropsy - Police Officers_28
+  - first:
+      213: -9198119269599704455
+    second: PC Computer - Dropsy - Police Officers_29
+  - first:
+      213: 5010257283233290966
+    second: PC Computer - Dropsy - Police Officers_30
+  - first:
+      213: 252744599356678280
+    second: PC Computer - Dropsy - Police Officers_31
+  - first:
+      213: -7099927246383611727
+    second: PC Computer - Dropsy - Police Officers_32
+  - first:
+      213: 5057856839394693179
+    second: PC Computer - Dropsy - Police Officers_33
+  - first:
+      213: 5931341852412468376
+    second: PC Computer - Dropsy - Police Officers_34
+  - first:
+      213: -6452093507513144383
+    second: PC Computer - Dropsy - Police Officers_35
+  - first:
+      213: 8149337017725862507
+    second: PC Computer - Dropsy - Police Officers_36
+  - first:
+      213: -1271986929098984618
+    second: PC Computer - Dropsy - Police Officers_37
+  - first:
+      213: -14834920269531515
+    second: PC Computer - Dropsy - Police Officers_38
+  - first:
+      213: -3678180347633437533
+    second: PC Computer - Dropsy - Police Officers_39
+  - first:
+      213: 1802763753006977879
+    second: PC Computer - Dropsy - Police Officers_40
+  - first:
+      213: -185668784211676424
+    second: PC Computer - Dropsy - Police Officers_41
+  - first:
+      213: -4807759144770556647
+    second: PC Computer - Dropsy - Police Officers_42
+  - first:
+      213: 7031487768291837346
+    second: PC Computer - Dropsy - Police Officers_43
+  - first:
+      213: -6640195986754057033
+    second: PC Computer - Dropsy - Police Officers_44
+  - first:
+      213: 5941905122835382384
+    second: PC Computer - Dropsy - Police Officers_45
+  - first:
+      213: -5015301430343455605
+    second: PC Computer - Dropsy - Police Officers_46
+  - first:
+      213: 6317998193731249532
+    second: PC Computer - Dropsy - Police Officers_47
+  - first:
+      213: -4278953135105986461
+    second: PC Computer - Dropsy - Police Officers_48
+  - first:
+      213: -4232961886408680203
+    second: PC Computer - Dropsy - Police Officers_49
+  - first:
+      213: -2945321341857902284
+    second: PC Computer - Dropsy - Police Officers_50
+  - first:
+      213: -3449423404127256154
+    second: PC Computer - Dropsy - Police Officers_51
+  - first:
+      213: -5025701053145884369
+    second: PC Computer - Dropsy - Police Officers_52
+  - first:
+      213: -5907541586160228197
+    second: PC Computer - Dropsy - Police Officers_53
+  - first:
+      213: -5854020134840804330
+    second: PC Computer - Dropsy - Police Officers_54
+  - first:
+      213: -5708035300919141166
+    second: PC Computer - Dropsy - Police Officers_55
+  - first:
+      213: 7103903491840861599
+    second: PC Computer - Dropsy - Police Officers_56
+  - first:
+      213: -2167985801878682702
+    second: PC Computer - Dropsy - Police Officers_57
+  - first:
+      213: 2731001659681401162
+    second: PC Computer - Dropsy - Police Officers_58
+  - first:
+      213: 359275570856477773
+    second: PC Computer - Dropsy - Police Officers_59
+  - first:
+      213: -7164031448921033710
+    second: PC Computer - Dropsy - Police Officers_60
+  - first:
+      213: 4312583901957769715
+    second: PC Computer - Dropsy - Police Officers_61
+  - first:
+      213: -5680385585267939911
+    second: PC Computer - Dropsy - Police Officers_62
+  - first:
+      213: -6700640728086652424
+    second: PC Computer - Dropsy - Police Officers_63
+  - first:
+      213: -7702568316470143374
+    second: PC Computer - Dropsy - Police Officers_64
+  - first:
+      213: 5995329579127152976
+    second: PC Computer - Dropsy - Police Officers_65
+  - first:
+      213: -3043562251212738556
+    second: PC Computer - Dropsy - Police Officers_66
+  - first:
+      213: -1418417463456911301
+    second: PC Computer - Dropsy - Police Officers_67
+  - first:
+      213: -6396969240751617973
+    second: PC Computer - Dropsy - Police Officers_68
+  - first:
+      213: 893003126789582926
+    second: PC Computer - Dropsy - Police Officers_69
+  - first:
+      213: 2531045181837779258
+    second: PC Computer - Dropsy - Police Officers_70
+  - first:
+      213: -7441849895415560772
+    second: PC Computer - Dropsy - Police Officers_71
+  - first:
+      213: 4731212265377159934
+    second: PC Computer - Dropsy - Police Officers_72
+  - first:
+      213: 2923086788076021282
+    second: PC Computer - Dropsy - Police Officers_73
+  - first:
+      213: 5840109632074699315
+    second: PC Computer - Dropsy - Police Officers_74
+  - first:
+      213: -413688136675595613
+    second: PC Computer - Dropsy - Police Officers_75
+  - first:
+      213: -7745389149905443202
+    second: PC Computer - Dropsy - Police Officers_76
+  - first:
+      213: -6374703237119318780
+    second: PC Computer - Dropsy - Police Officers_77
+  - first:
+      213: 4825461322380767544
+    second: PC Computer - Dropsy - Police Officers_78
+  - first:
+      213: -8426531333749895415
+    second: PC Computer - Dropsy - Police Officers_79
+  - first:
+      213: 5872238637986182365
+    second: PC Computer - Dropsy - Police Officers_80
+  - first:
+      213: 1089599203741666811
+    second: PC Computer - Dropsy - Police Officers_81
+  - first:
+      213: -2236961233790364229
+    second: PC Computer - Dropsy - Police Officers_82
+  - first:
+      213: -3709327969154821212
+    second: PC Computer - Dropsy - Police Officers_83
+  - first:
+      213: -5125222274829798981
+    second: PC Computer - Dropsy - Police Officers_84
+  - first:
+      213: 2848365378630126245
+    second: PC Computer - Dropsy - Police Officers_85
+  - first:
+      213: -7773633812155538748
+    second: PC Computer - Dropsy - Police Officers_86
+  - first:
+      213: 3430169636832779908
+    second: PC Computer - Dropsy - Police Officers_87
+  - first:
+      213: 5613752656343126040
+    second: PC Computer - Dropsy - Police Officers_88
+  - first:
+      213: -3062700044186659834
+    second: PC Computer - Dropsy - Police Officers_89
+  - first:
+      213: -6083747504295574315
+    second: PC Computer - Dropsy - Police Officers_90
+  - first:
+      213: 5172961761978206043
+    second: PC Computer - Dropsy - Police Officers_91
+  - first:
+      213: -5302261715147749302
+    second: PC Computer - Dropsy - Police Officers_92
+  - first:
+      213: 9125816750708772103
+    second: PC Computer - Dropsy - Police Officers_93
+  - first:
+      213: -4578053106904751982
+    second: PC Computer - Dropsy - Police Officers_94
+  - first:
+      213: -5409292319217852666
+    second: PC Computer - Dropsy - Police Officers_95
+  - first:
+      213: -8670677540742132247
+    second: PC Computer - Dropsy - Police Officers_96
+  - first:
+      213: 7736078412626450797
+    second: PC Computer - Dropsy - Police Officers_97
+  - first:
+      213: -2495649044803389335
+    second: PC Computer - Dropsy - Police Officers_98
+  - first:
+      213: 7764906478347337240
+    second: PC Computer - Dropsy - Police Officers_99
+  - first:
+      213: 7016899821096199094
+    second: PC Computer - Dropsy - Police Officers_100
+  - first:
+      213: -49550604636332324
+    second: PC Computer - Dropsy - Police Officers_101
+  - first:
+      213: -1607981895984453256
+    second: PC Computer - Dropsy - Police Officers_102
+  - first:
+      213: -7092586970533824840
+    second: PC Computer - Dropsy - Police Officers_103
+  - first:
+      213: 6033061377906625859
+    second: PC Computer - Dropsy - Police Officers_104
+  - first:
+      213: 5030334467220986123
+    second: PC Computer - Dropsy - Police Officers_105
+  - first:
+      213: -8454983260523255585
+    second: PC Computer - Dropsy - Police Officers_106
+  - first:
+      213: -4646813305128028986
+    second: PC Computer - Dropsy - Police Officers_107
+  - first:
+      213: -4767525497252545061
+    second: PC Computer - Dropsy - Police Officers_108
+  - first:
+      213: -6596292541198145716
+    second: PC Computer - Dropsy - Police Officers_109
+  - first:
+      213: -4161826598037298057
+    second: PC Computer - Dropsy - Police Officers_110
+  - first:
+      213: -4233819293636278866
+    second: PC Computer - Dropsy - Police Officers_111
+  - first:
+      213: -5480642844676163649
+    second: PC Computer - Dropsy - Police Officers_112
+  - first:
+      213: 4025928596999925518
+    second: PC Computer - Dropsy - Police Officers_113
+  - first:
+      213: -1520963943074327636
+    second: PC Computer - Dropsy - Police Officers_114
+  - first:
+      213: -4835823684976093622
+    second: PC Computer - Dropsy - Police Officers_115
+  - first:
+      213: 9133760584565474293
+    second: PC Computer - Dropsy - Police Officers_116
+  - first:
+      213: 782072976644005382
+    second: PC Computer - Dropsy - Police Officers_117
+  - first:
+      213: 823949119362126395
+    second: PC Computer - Dropsy - Police Officers_118
+  - first:
+      213: -884835223477638697
+    second: PC Computer - Dropsy - Police Officers_119
+  - first:
+      213: 5274188644082697685
+    second: PC Computer - Dropsy - Police Officers_120
+  - first:
+      213: -4299339450198650495
+    second: PC Computer - Dropsy - Police Officers_121
+  - first:
+      213: -6516014421721589906
+    second: PC Computer - Dropsy - Police Officers_122
+  - first:
+      213: -2914516178931278003
+    second: PC Computer - Dropsy - Police Officers_123
+  - first:
+      213: -7956336750628297812
+    second: PC Computer - Dropsy - Police Officers_124
+  - first:
+      213: -8016266270503227671
+    second: PC Computer - Dropsy - Police Officers_125
+  - first:
+      213: -3874593370552917926
+    second: PC Computer - Dropsy - Police Officers_126
+  - first:
+      213: 4807718082551623035
+    second: PC Computer - Dropsy - Police Officers_127
+  - first:
+      213: 2799590010209399849
+    second: PC Computer - Dropsy - Police Officers_128
+  - first:
+      213: -8073133876947131378
+    second: PC Computer - Dropsy - Police Officers_129
+  - first:
+      213: 6354786317160539100
+    second: PC Computer - Dropsy - Police Officers_130
+  - first:
+      213: 3354129212449195723
+    second: PC Computer - Dropsy - Police Officers_131
+  - first:
+      213: 89016560592867515
+    second: PC Computer - Dropsy - Police Officers_132
+  - first:
+      213: -5553405538921160676
+    second: PC Computer - Dropsy - Police Officers_133
+  - first:
+      213: -934313273044957803
+    second: PC Computer - Dropsy - Police Officers_134
+  - first:
+      213: 7350621453213503013
+    second: PC Computer - Dropsy - Police Officers_135
+  - first:
+      213: 8893949563699195839
+    second: PC Computer - Dropsy - Police Officers_136
+  - first:
+      213: 8147519696824689248
+    second: PC Computer - Dropsy - Police Officers_137
+  - first:
+      213: -4973918474815890073
+    second: PC Computer - Dropsy - Police Officers_138
+  - first:
+      213: 6659021200296230787
+    second: PC Computer - Dropsy - Police Officers_139
+  - first:
+      213: -9054294129964617821
+    second: PC Computer - Dropsy - Police Officers_140
+  - first:
+      213: 5122629443960165882
+    second: PC Computer - Dropsy - Police Officers_141
+  - first:
+      213: 4086512666483638977
+    second: PC Computer - Dropsy - Police Officers_142
+  - first:
+      213: -1530998525917763290
+    second: PC Computer - Dropsy - Police Officers_143
+  - first:
+      213: -1187623344921797071
+    second: PC Computer - Dropsy - Police Officers_144
+  - first:
+      213: -3654455237830703431
+    second: PC Computer - Dropsy - Police Officers_145
+  - first:
+      213: 1651138812986446656
+    second: PC Computer - Dropsy - Police Officers_146
+  - first:
+      213: 6323485127170882328
+    second: PC Computer - Dropsy - Police Officers_147
+  - first:
+      213: -782276936916712972
+    second: PC Computer - Dropsy - Police Officers_148
+  - first:
+      213: -3376360281570988146
+    second: PC Computer - Dropsy - Police Officers_149
+  - first:
+      213: -2571996454933612612
+    second: PC Computer - Dropsy - Police Officers_150
+  - first:
+      213: -2655403048130925274
+    second: PC Computer - Dropsy - Police Officers_151
+  - first:
+      213: 150342684926848141
+    second: PC Computer - Dropsy - Police Officers_152
+  - first:
+      213: -1290332484349434382
+    second: PC Computer - Dropsy - Police Officers_153
+  - first:
+      213: 6268385042338358121
+    second: PC Computer - Dropsy - Police Officers_154
+  - first:
+      213: -2867596649187888360
+    second: PC Computer - Dropsy - Police Officers_155
+  - first:
+      213: -6571306602056291772
+    second: PC Computer - Dropsy - Police Officers_156
+  - first:
+      213: -2964672567633689610
+    second: PC Computer - Dropsy - Police Officers_157
+  - first:
+      213: 4333260328906183624
+    second: PC Computer - Dropsy - Police Officers_158
+  - first:
+      213: -2996435951979964008
+    second: PC Computer - Dropsy - Police Officers_159
+  - first:
+      213: -720788716806327056
+    second: PC Computer - Dropsy - Police Officers_160
+  - first:
+      213: -7985001348229153190
+    second: PC Computer - Dropsy - Police Officers_161
+  - first:
+      213: 1757458958836235432
+    second: PC Computer - Dropsy - Police Officers_162
+  - first:
+      213: 3704438714612585641
+    second: PC Computer - Dropsy - Police Officers_163
+  - first:
+      213: -4020860258868058285
+    second: PC Computer - Dropsy - Police Officers_164
+  - first:
+      213: 263816612845117426
+    second: PC Computer - Dropsy - Police Officers_165
+  - first:
+      213: -2864545934965553060
+    second: PC Computer - Dropsy - Police Officers_166
+  - first:
+      213: -8478864832200569429
+    second: PC Computer - Dropsy - Police Officers_167
+  - first:
+      213: 5155667960657019904
+    second: PC Computer - Dropsy - Police Officers_168
+  - first:
+      213: 7698335648565228398
+    second: PC Computer - Dropsy - Police Officers_169
+  - first:
+      213: 9029407451360722031
+    second: PC Computer - Dropsy - Police Officers_170
+  - first:
+      213: -746694740645421401
+    second: PC Computer - Dropsy - Police Officers_171
+  - first:
+      213: -7389002805850627316
+    second: PC Computer - Dropsy - Police Officers_172
+  - first:
+      213: 4205245520572460042
+    second: PC Computer - Dropsy - Police Officers_173
+  - first:
+      213: 1210007126743175576
+    second: PC Computer - Dropsy - Police Officers_174
+  - first:
+      213: -4320518613957087564
+    second: PC Computer - Dropsy - Police Officers_175
+  - first:
+      213: 2296050383979675729
+    second: PC Computer - Dropsy - Police Officers_176
+  - first:
+      213: 7978102123801068039
+    second: PC Computer - Dropsy - Police Officers_177
+  - first:
+      213: 3224017122943919038
+    second: PC Computer - Dropsy - Police Officers_178
+  - first:
+      213: 1629928336289264204
+    second: PC Computer - Dropsy - Police Officers_179
+  - first:
+      213: 143063539668763342
+    second: PC Computer - Dropsy - Police Officers_180
+  - first:
+      213: -3099297466847831800
+    second: PC Computer - Dropsy - Police Officers_181
+  - first:
+      213: 6369192054339384705
+    second: PC Computer - Dropsy - Police Officers_182
+  - first:
+      213: -3405264390969515196
+    second: PC Computer - Dropsy - Police Officers_183
+  - first:
+      213: 3530245666222231635
+    second: PC Computer - Dropsy - Police Officers_184
+  - first:
+      213: -5314798040039662727
+    second: PC Computer - Dropsy - Police Officers_185
+  - first:
+      213: 3588675266449469717
+    second: PC Computer - Dropsy - Police Officers_186
+  - first:
+      213: 1559414509326542120
+    second: PC Computer - Dropsy - Police Officers_187
+  - first:
+      213: -733485620694582780
+    second: PC Computer - Dropsy - Police Officers_188
+  - first:
+      213: -5700288869937406122
+    second: PC Computer - Dropsy - Police Officers_189
+  - first:
+      213: -605224945908465676
+    second: PC Computer - Dropsy - Police Officers_190
+  - first:
+      213: -8868165412789800838
+    second: PC Computer - Dropsy - Police Officers_191
+  - first:
+      213: -7090825762879165121
+    second: PC Computer - Dropsy - Police Officers_192
+  - first:
+      213: 8243142790322590939
+    second: PC Computer - Dropsy - Police Officers_193
+  - first:
+      213: 5977716279567999767
+    second: PC Computer - Dropsy - Police Officers_194
+  - first:
+      213: -3619157382371628051
+    second: PC Computer - Dropsy - Police Officers_195
+  - first:
+      213: 7103211047683330159
+    second: PC Computer - Dropsy - Police Officers_196
+  - first:
+      213: -6742295132739639694
+    second: PC Computer - Dropsy - Police Officers_197
+  - first:
+      213: 4272699720807956163
+    second: PC Computer - Dropsy - Police Officers_198
+  - first:
+      213: 2401825603199303857
+    second: PC Computer - Dropsy - Police Officers_199
+  - first:
+      213: -1530646555934921092
+    second: PC Computer - Dropsy - Police Officers_200
+  - first:
+      213: 2620876499882492678
+    second: PC Computer - Dropsy - Police Officers_201
+  - first:
+      213: -3979337140296264497
+    second: PC Computer - Dropsy - Police Officers_202
+  - first:
+      213: 150839703630864329
+    second: PC Computer - Dropsy - Police Officers_203
+  - first:
+      213: 5781969648065355745
+    second: PC Computer - Dropsy - Police Officers_204
+  - first:
+      213: 2309570952437164471
+    second: PC Computer - Dropsy - Police Officers_205
+  - first:
+      213: 6090567979571661752
+    second: PC Computer - Dropsy - Police Officers_206
+  - first:
+      213: 4472654552654328107
+    second: PC Computer - Dropsy - Police Officers_207
+  - first:
+      213: -8553388113551296453
+    second: PC Computer - Dropsy - Police Officers_208
+  - first:
+      213: 5844962845164280539
+    second: PC Computer - Dropsy - Police Officers_209
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed24b9c93cfe4730800000000000000
+      internalID: 3985400045396831716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca486de9e8b0290800000000000000
+      internalID: -7923082306573259642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54cc60f894d5f0a0800000000000000
+      internalID: -6848333905013193633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadaae4b963bbee40800000000000000
+      internalID: 5686836221073599916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e51a97a22f8ca0800000000000000
+      internalID: -6012548874276314622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0285a0616de0d2a0800000000000000
+      internalID: -6714606041920339442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_6
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5605e8af1f53f0310800000000000000
+      internalID: 1373375724778311781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_7
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873a9fe9da802e990800000000000000
+      internalID: -7358309299380444296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_8
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2ae04eabe2290f0800000000000000
+      internalID: -1111774777782132049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_9
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5175e13510faaabb0800000000000000
+      internalID: -4923930822351890667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_10
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b5edebd3b927e80800000000000000
+      internalID: -8182306883481216196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_11
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70abc7b95806a2a00800000000000000
+      internalID: 732504016356686343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_12
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5009ae7369db890800000000000000
+      internalID: -7440625842443516451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_13
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1866
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a244a79025991ef00800000000000000
+      internalID: 1144364357954192426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ed64ee0220123a0800000000000000
+      internalID: -6692065230836015576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5662d943c8cf4baf0800000000000000
+      internalID: -381402389311314331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9501479e2475ad90800000000000000
+      internalID: -7087130695142668901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58fca6b175fb58a0800000000000000
+      internalID: -6315184183712090017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_18
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e2e2a0ec81a1e40800000000000000
+      internalID: 5627837957565984303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_19
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2805956811cca0b30800000000000000
+      internalID: 4254437173645365378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_20
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dffbbe6841714a30800000000000000
+      internalID: 4197760883595411415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_21
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2232b9ff52656d50800000000000000
+      internalID: 6729893382525694509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_22
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3e0856209094590800000000000000
+      internalID: -7689604982860880974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_23
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9450548600666c0800000000000000
+      internalID: -4150629558740760065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_24
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975aa9da56d631210800000000000000
+      internalID: 1302505000711923065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_25
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd121124ff1ef220800000000000000
+      internalID: 2521487974761373176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_26
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073bbc56fcb452c30800000000000000
+      internalID: 4333953570552132464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_27
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1736
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587a1a1203e569cf0800000000000000
+      internalID: -245905568829429883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42422375dbd826d60800000000000000
+      internalID: 7882018142203028516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a85dd0247b95080800000000000000
+      internalID: -9198119269599704455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da1f602472088540800000000000000
+      internalID: 5010257283233290966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880ad8fbfdde18300800000000000000
+      internalID: 252744599356678280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_32
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0003459cdf77d90800000000000000
+      internalID: -7099927246383611727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_33
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3096ec6ffd113640800000000000000
+      internalID: 5057856839394693179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_34
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cd37a3dfb505250800000000000000
+      internalID: 5931341852412468376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_35
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb231bb32f8576a0800000000000000
+      internalID: -6452093507513144383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_36
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62cd7037d2481170800000000000000
+      internalID: 8149337017725862507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_37
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6537d1490aef85ee0800000000000000
+      internalID: -1271986929098984618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_38
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5863017f7bb4bcff0800000000000000
+      internalID: -14834920269531515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_39
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a47c7f267a74fcc0800000000000000
+      internalID: -3678180347633437533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_40
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7535ee7f414b40910800000000000000
+      internalID: 1802763753006977879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_41
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1606
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f23f27793f5c6df0800000000000000
+      internalID: -185668784211676424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da05ac788674db0800000000000000
+      internalID: -4807759144770556647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a50a8feedcd49160800000000000000
+      internalID: 7031487768291837346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_44
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bccc8a6ee849d3a0800000000000000
+      internalID: -6640195986754057033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_45
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0704da74a33e57250800000000000000
+      internalID: 5941905122835382384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_46
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8caedadbe1166ab0800000000000000
+      internalID: -5015301430343455605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_47
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7529ec02e90ea750800000000000000
+      internalID: 6317998193731249532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_48
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360b6736bca1e94c0800000000000000
+      internalID: -4278953135105986461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_49
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcd7dc679f7145c0800000000000000
+      internalID: -4232961886408680203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_50
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431de2538dd1027d0800000000000000
+      internalID: -2945321341857902284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_51
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1831590bf2120d0800000000000000
+      internalID: -3449423404127256154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_52
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29deebf48f114ab0800000000000000
+      internalID: -5025701053145884369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_53
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9862151a32340ea0800000000000000
+      internalID: -5907541586160228197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_54
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c54da04b752cea0800000000000000
+      internalID: -5854020134840804330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_55
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1476
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc1353e22cf8c0b0800000000000000
+      internalID: -5708035300919141166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95e4d57692269260800000000000000
+      internalID: 7103903491840861599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b34ee05664c9e1e0800000000000000
+      internalID: -2167985801878682702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_58
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49ef4e3a8776e520800000000000000
+      internalID: 2731001659681401162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_59
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4440696a376cf400800000000000000
+      internalID: 359275570856477773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_60
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214b5579a5f349c90800000000000000
+      internalID: -7164031448921033710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_61
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9c244b53069db30800000000000000
+      internalID: 4312583901957769715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_62
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5eadaf7673b21b0800000000000000
+      internalID: -5680385585267939911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_63
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f951e262ca8203a0800000000000000
+      internalID: -6700640728086652424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_64
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2765e961deafa1590800000000000000
+      internalID: -7702568316470143374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_65
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0512443dc70b33350800000000000000
+      internalID: 5995329579127152976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_66
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4003dac024813c5d0800000000000000
+      internalID: -3043562251212738556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_67
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30b07305d4c05ce0800000000000000
+      internalID: -1418417463456911301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_68
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4846ed3e566937a0800000000000000
+      internalID: -6396969240751617973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_69
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1346
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e403b9bcc95946c00800000000000000
+      internalID: 893003126789582926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31a7edce24102320800000000000000
+      internalID: 2531045181837779258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_71
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb54affd2fc39b890800000000000000
+      internalID: -7441849895415560772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_72
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efad6c20d74a8a140800000000000000
+      internalID: 4731212265377159934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_73
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226a8e252f3e09820800000000000000
+      internalID: 2923086788076021282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_74
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3325625a4cc3c0150800000000000000
+      internalID: 5840109632074699315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_75
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa68add4d8424af0800000000000000
+      internalID: -413688136675595613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_76
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76a8b0ea99d28490800000000000000
+      internalID: -7745389149905443202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_77
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40568f23e218887a0800000000000000
+      internalID: -6374703237119318780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_78
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83174ed918b77f240800000000000000
+      internalID: 4825461322380767544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_79
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f832bc562fe0b80800000000000000
+      internalID: -8426531333749895415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_80
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd47d75cde16e7150800000000000000
+      internalID: 5872238637986182365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_81
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd029ee3b80f1f00800000000000000
+      internalID: 1089599203741666811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_82
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb51b9b1c97b4f0e0800000000000000
+      internalID: -2236961233790364229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_83
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1216
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a31b1b6dd1d58cc0800000000000000
+      internalID: -3709327969154821212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1b9d1ee7d8fd8b0800000000000000
+      internalID: -5125222274829798981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_85
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa05c7783d678720800000000000000
+      internalID: 2848365378630126245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_86
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2e08cfb318e1490800000000000000
+      internalID: -7773633812155538748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_87
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e9fb26c196a9f20800000000000000
+      internalID: 3430169636832779908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_88
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810dc3a4c4e08ed40800000000000000
+      internalID: 5613752656343126040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_89
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6045ea4698a1f75d0800000000000000
+      internalID: -3062700044186659834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_90
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d40b4fb0ef229ba0800000000000000
+      internalID: -6083747504295574315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_91
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57c363a05d0ac740800000000000000
+      internalID: 5172961761978206043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_92
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48077a00159a66b0800000000000000
+      internalID: -5302261715147749302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_93
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d4e4febf965ae70800000000000000
+      internalID: 9125816750708772103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_94
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290a11074fc7770c0800000000000000
+      internalID: -4578053106904751982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_95
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f55ca9b455ee4b0800000000000000
+      internalID: -5409292319217852666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_96
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed8b1647b09ba780800000000000000
+      internalID: -8670677540742132247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_97
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1086
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69da2b24521c5b60800000000000000
+      internalID: 7736078412626450797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96873709a6cad5dd0800000000000000
+      internalID: -2495649044803389335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_99
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eb5044d4d72cb60800000000000000
+      internalID: 7764906478347337240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_100
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e0fcc539016160800000000000000
+      internalID: 7016899821096199094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_101
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdede34dcf5ff4ff0800000000000000
+      internalID: -49550604636332324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_102
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879669c2cfc4fa9e0800000000000000
+      internalID: -1607981895984453256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_103
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b674ca7ab1129d90800000000000000
+      internalID: -7092586970533824840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_104
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dc042db5db9b350800000000000000
+      internalID: 6033061377906625859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_105
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b095c1ccb865fc540800000000000000
+      internalID: 5030334467220986123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_106
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd823ae558dd9aa80800000000000000
+      internalID: -8454983260523255585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_107
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4f84a3be3338fb0800000000000000
+      internalID: -4646813305128028986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_108
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddf4a6d1d856ddb0800000000000000
+      internalID: -4767525497252545061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_109
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c476357e1e24574a0800000000000000
+      internalID: -6596292541198145716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_110
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774e63762c83e36c0800000000000000
+      internalID: -4161826598037298057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_111
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 956
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea54d9fb8c37e35c0800000000000000
+      internalID: -4233819293636278866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb77a46de58d0f3b0800000000000000
+      internalID: -5480642844676163649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_113
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f644b8ab8fed730800000000000000
+      internalID: 4025928596999925518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_114
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca390e82a5374eae0800000000000000
+      internalID: -1520963943074327636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_115
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a465494daf3b3ecb0800000000000000
+      internalID: -4835823684976093622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_116
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f34d72ebd2a1ce70800000000000000
+      internalID: 9133760584565474293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_117
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e5c498a3b7ada00800000000000000
+      internalID: 782072976644005382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_118
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32539ccb514f6b00800000000000000
+      internalID: 823949119362126395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_119
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9acd36d0f68b3f0800000000000000
+      internalID: -884835223477638697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_120
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5c2f0c0aea13940800000000000000
+      internalID: 5274188644082697685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_121
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18116168c8da554c0800000000000000
+      internalID: -4299339450198650495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_122
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6756f128677295a0800000000000000
+      internalID: -6516014421721589906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_123
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f1cae1afe8d87d0800000000000000
+      internalID: -2914516178931278003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_124
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca32a6931e9659190800000000000000
+      internalID: -7956336750628297812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_125
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 826
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eea5b98c4080c090800000000000000
+      internalID: -8016266270503227671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_126
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a502c13abddaa3ac0800000000000000
+      internalID: -3874593370552917926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_127
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d26baaf1278b240800000000000000
+      internalID: 4807718082551623035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_128
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924734b08442ad620800000000000000
+      internalID: 2799590010209399849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_129
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04e460238776ff80800000000000000
+      internalID: -8073133876947131378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_130
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3edd18c7cb03850800000000000000
+      internalID: 6354786317160539100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_131
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc68bce6fb24c8e20800000000000000
+      internalID: 3354129212449195723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_132
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0d34917104c3100800000000000000
+      internalID: 89016560592867515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_133
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10eae6e5175ee2b0800000000000000
+      internalID: -5553405538921160676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_134
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59509334707a803f0800000000000000
+      internalID: -934313273044957803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_135
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e08253447a20660800000000000000
+      internalID: 7350621453213503013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_136
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfe78a8108ad6b70800000000000000
+      internalID: 8893949563699195839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_137
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062ebb13ffdc11170800000000000000
+      internalID: 8147519696824689248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_138
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d98d6008719fab0800000000000000
+      internalID: -4973918474815890073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_139
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 696
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb37b2088996c50800000000000000
+      internalID: 6659021200296230787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_140
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afed83e57fa85280800000000000000
+      internalID: -9054294129964617821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_141
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5d333a65c371740800000000000000
+      internalID: 5122629443960165882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_142
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c244ef6e9536b830800000000000000
+      internalID: 4086512666483638977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_143
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6296607c3fcc0cae0800000000000000
+      internalID: -1530998525917763290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_144
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e99fe2cd6b48fe0800000000000000
+      internalID: -1187623344921797071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_145
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b60985c254c84dc0800000000000000
+      internalID: -3654455237830703431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_146
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043dae690060ae610800000000000000
+      internalID: 1651138812986446656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_147
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b7c7b483881c750800000000000000
+      internalID: 6323485127170882328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_148
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f14913454bc425f0800000000000000
+      internalID: -782276936916712972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_149
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f293f6632c421d0800000000000000
+      internalID: -3376360281570988146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_150
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb73e1ce9de6e4cd0800000000000000
+      internalID: -2571996454933612612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_151
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62daaa42ffc162bd0800000000000000
+      internalID: -2655403048130925274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_152
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ca4a910ef161200800000000000000
+      internalID: 150342684926848141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_153
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 566
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f564342171d71ee0800000000000000
+      internalID: -1290332484349434382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_154
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96323f31cf6cdf650800000000000000
+      internalID: 6268385042338358121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_155
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8133e0e6a004438d0800000000000000
+      internalID: -2867596649187888360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_156
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a614236770ec4a0800000000000000
+      internalID: -6571306602056291772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_157
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f349dad10e5bd6d0800000000000000
+      internalID: -2964672567633689610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_158
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3debf7f45d22c30800000000000000
+      internalID: 4333260328906183624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_159
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8995602a0658a66d0800000000000000
+      internalID: -2996435951979964008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_160
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f436a02b7e3ff5f0800000000000000
+      internalID: -720788716806327056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_161
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e39c384939f2190800000000000000
+      internalID: -7985001348229153190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_162
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acf2c49c9fb36810800000000000000
+      internalID: 1757458958836235432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_163
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a410bc426fc86330800000000000000
+      internalID: 3704438714612585641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_164
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3572fa2e5e80338c0800000000000000
+      internalID: -4020860258868058285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_165
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffda76cfc349a300800000000000000
+      internalID: 263816612845117426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_166
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58c69f26a61f38d0800000000000000
+      internalID: -2864545934965553060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_167
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 436
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad022aab55055a80800000000000000
+      internalID: -8478864832200569429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_168
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00403deb1bc9c8740800000000000000
+      internalID: 5155667960657019904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_169
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63f47e1c7bf5da60800000000000000
+      internalID: 7698335648565228398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_170
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cfe96bc36ee4d70800000000000000
+      internalID: 9029407451360722031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_171
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae5d2ce61533a5f0800000000000000
+      internalID: -746694740645421401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_172
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03a8e0c81df47990800000000000000
+      internalID: -7389002805850627316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_173
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c260745880c5a30800000000000000
+      internalID: 4205245520572460042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_174
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891d735221fcac010800000000000000
+      internalID: 1210007126743175576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_175
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beef91363f6a04c0800000000000000
+      internalID: -4320518613957087564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_176
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1500283c8a53ddf10800000000000000
+      internalID: 2296050383979675729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_177
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702c3fe9c99e7be60800000000000000
+      internalID: 7978102123801068039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_178
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb369d2ed720ebc20800000000000000
+      internalID: 3224017122943919038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_179
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c427dd5af2bae9610800000000000000
+      internalID: 1629928336289264204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_180
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2444608834cf100800000000000000
+      internalID: 143063539668763342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_181
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 306
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809544bef551df4d0800000000000000
+      internalID: -3099297466847831800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_182
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185b3219d6ae36850800000000000000
+      internalID: 6369192054339384705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_183
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443a9f904121eb0d0800000000000000
+      internalID: -3405264390969515196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_184
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350d909bab3fdf030800000000000000
+      internalID: 3530245666222231635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_185
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b5e72775b0e36b0800000000000000
+      internalID: -5314798040039662727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_186
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51173f624298dc130800000000000000
+      internalID: 3588675266449469717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_187
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825affdeb3724a510800000000000000
+      internalID: 1559414509326542120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_188
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a74a2d6b222d5f0800000000000000
+      internalID: -733485620694582780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_189
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f9446697184e0b0800000000000000
+      internalID: -5700288869937406122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_190
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffbbe94e1fc997f0800000000000000
+      internalID: -605224945908465676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_191
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a703249ea82fde480800000000000000
+      internalID: -8868165412789800838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_192
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d26679983589d90800000000000000
+      internalID: -7090825762879165121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_193
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4100a91b6856270800000000000000
+      internalID: 8243142790322590939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_194
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71368b3f84d15f250800000000000000
+      internalID: 5977716279567999767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_195
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 176
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba18d298b26cdc0800000000000000
+      internalID: -3619157382371628051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_196
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f609bcd30dca39260800000000000000
+      internalID: 7103211047683330159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_197
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276653a8c4e8e62a0800000000000000
+      internalID: -6742295132739639694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_198
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce3ba222cdab4b30800000000000000
+      internalID: 4272699720807956163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_199
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0022329aff45120800000000000000
+      internalID: 2401825603199303857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_200
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee2dc211d02cae0800000000000000
+      internalID: -1530646555934921092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_201
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6034aa76a493f5420800000000000000
+      internalID: 2620876499882492678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_202
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc45f1f44fd86c8c0800000000000000
+      internalID: -3979337140296264497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_203
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf51f849e3e71200800000000000000
+      internalID: 150839703630864329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_204
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef960fb2cead3050800000000000000
+      internalID: 5781969648065355745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_205
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9e39b6b8e3d0020800000000000000
+      internalID: 2309570952437164471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_206
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbccb6ee4b068450800000000000000
+      internalID: 6090567979571661752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_207
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21bef55e9f021e30800000000000000
+      internalID: 4472654552654328107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_208
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38f9b914d24c4980800000000000000
+      internalID: -8553388113551296453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Dropsy - Police Officers_209
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 46
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda9f5f5dba7d1150800000000000000
+      internalID: 5844962845164280539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
