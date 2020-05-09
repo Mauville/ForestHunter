@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Arrow
+  - Damage
+  - Fuzzy
+  - Ground
+  - Spines
+  - Grippable
+  - GM
   layers:
   - Default
   - TransparentFX
@@ -13,7 +20,9 @@ TagManager:
   - UI
   - 
   - 
-  - Platforms
+  - Background
+  - Tiles
+  - Dynamic
   - Player
   - 
   - 
@@ -35,24 +44,22 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 489030373
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
-    uniqueID: 1158644637
-    locked: 0
-  - name: Platforms
-    uniqueID: 3347374363
-    locked: 0
-  - name: Shadows
-    uniqueID: 2117225833
+  - name: Foreground
+    uniqueID: 188618749
     locked: 0
   - name: Player
-    uniqueID: 2277341167
+    uniqueID: 2481760929
     locked: 0
-  - name: Foreground
-    uniqueID: 890032547
+  - name: Enemies
+    uniqueID: 982363353
+    locked: 0
+  - name: Front
+    uniqueID: 1241275249
     locked: 0
