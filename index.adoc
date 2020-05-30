@@ -1,0 +1,24 @@
+﻿= Forest Hunter
+:imagesdir: imagedir/
+:icons: font
+:sectanchors:
+// Enable fancy admonition icons on GH
+ifdef::env-github[]
+:tip-caption: :bulb:
+:toc:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+
+A beautiful platformer crafted with care and  💖 by https://github.com/SantiagoHernandezG[Santiago Hernandez] with a little help from us.
+
+We used Unity, Cinemachine, and Fair-Use sprites and sounds. The development process took us from a shmup, to a beat-em-up, to a Metroidvania.
+
+== Demo
+
+image::main.gif[]
+image::runn.gif[]
+image::hook.gif[]
