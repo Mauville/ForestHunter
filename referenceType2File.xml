@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>1e3a677228f5ddd43a73958c316fe157</guid>
+    <fileName>Assets/Beautiful BG assets/Scripts/CamerController.cs</fileName>
+    <timeStamp>2018-05-09T07:53:18-05:00</timeStamp>
+    <typeFullName>
+      <string>CamerController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T12:51:26-06:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T12:51:26-06:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T12:51:26-06:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T12:51:26-06:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T12:51:26-06:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T12:51:26-06:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c118067f170e364191f905f2193b1e4</guid>
+    <fileName>Assets/Scripts/AudioMainMenu.cs</fileName>
+    <timeStamp>2020-05-28T21:03:47-05:00</timeStamp>
+    <typeFullName>
+      <string>AudioMainMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>886bfffe8797cab4586dcbe6e48e2fde</guid>
+    <fileName>Assets/Scripts/AudioManager.cs</fileName>
+    <timeStamp>2020-05-28T18:47:40-05:00</timeStamp>
+    <typeFullName>
+      <string>AudioManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>790dc72eaf944eb4ca1acff387b72d41</guid>
+    <fileName>Assets/Scripts/CheckPoint.cs</fileName>
+    <timeStamp>2020-05-29T00:20:56-05:00</timeStamp>
+    <typeFullName>
+      <string>CheckPoint</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d38465dd0f3c5ce428dbe8ef723a5f69</guid>
+    <fileName>Assets/Scripts/GameMaster.cs</fileName>
+    <timeStamp>2020-05-28T23:51:02-05:00</timeStamp>
+    <typeFullName>
+      <string>GameMaster</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>988104ab1eb6f1345b3d1039bade0a0a</guid>
+    <fileName>Assets/Scripts/Sound.cs</fileName>
+    <timeStamp>2020-05-08T22:57:26-05:00</timeStamp>
+    <typeFullName>
+      <string>Sound</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>27d4571315f864b4a96e4b679413b82c</guid>
+    <fileName>Assets/Scripts/Enemies/FuzzyController.cs</fileName>
+    <timeStamp>2020-05-28T18:21:19-05:00</timeStamp>
+    <typeFullName>
+      <string>FuzzyController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bb75c95eb2d357244a8e340eab4834c5</guid>
+    <fileName>Assets/Scripts/Enemies/Nut.cs</fileName>
+    <timeStamp>2020-05-28T16:45:44-05:00</timeStamp>
+    <typeFullName>
+      <string>Nut</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>638132208722f114c9f33ba6eba6717e</guid>
+    <fileName>Assets/Scripts/Enemies/Squirrel.cs</fileName>
+    <timeStamp>2020-05-28T16:46:09-05:00</timeStamp>
+    <typeFullName>
+      <string>Squirrel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>beac57a572314f04c92f3623ed480ec4</guid>
+    <fileName>Assets/Scripts/Enemies/Vigilantee.cs</fileName>
+    <timeStamp>2020-05-29T00:34:21-05:00</timeStamp>
+    <typeFullName>
+      <string>Vigilantee</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>512a3bf48d753844c9d4ffd3da44b01f</guid>
+    <fileName>Assets/Scripts/Enemies/Bird/Bird.cs</fileName>
+    <timeStamp>2020-05-28T18:30:39-05:00</timeStamp>
+    <typeFullName>
+      <string>Bird</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9305d097434ddc3449c4585a861e8264</guid>
+    <fileName>Assets/Scripts/Enemies/Bird/CircularMovement.cs</fileName>
+    <timeStamp>2020-05-25T14:53:03-05:00</timeStamp>
+    <typeFullName>
+      <string>CircularMovement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c7f646d5dac98b342b7732742c3a9305</guid>
+    <fileName>Assets/Scripts/Environment/BreakableWall.cs</fileName>
+    <timeStamp>2020-05-29T17:15:30-05:00</timeStamp>
+    <typeFullName>
+      <string>BreakableWall</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>86d2f79913b2c734bb25f0ee6ee00e5b</guid>
+    <fileName>Assets/Scripts/Environment/BurnableBush.cs</fileName>
+    <timeStamp>2020-05-27T21:16:56-05:00</timeStamp>
+    <typeFullName>
+      <string>BurnableBush</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>22d83874fd8971b45bad495e63f7df76</guid>
+    <fileName>Assets/Scripts/Player/Arrow.cs</fileName>
+    <timeStamp>2020-05-28T22:55:36-05:00</timeStamp>
+    <typeFullName>
+      <string>Arrow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4606d9b9e1faee84fbcad343e34f162f</guid>
+    <fileName>Assets/Scripts/Player/FireArrow.cs</fileName>
+    <timeStamp>2020-05-28T22:55:32-05:00</timeStamp>
+    <typeFullName>
+      <string>FireArrow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fc64ac8a24088644d97c7be269f70a0e</guid>
+    <fileName>Assets/Scripts/Player/HeavyArrow.cs</fileName>
+    <timeStamp>2020-05-28T22:55:27-05:00</timeStamp>
+    <typeFullName>
+      <string>HeavyArrow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6e08e4d6c5a55a549a97355036c180a0</guid>
+    <fileName>Assets/Scripts/Player/Hunter.cs</fileName>
+    <timeStamp>2020-05-29T00:37:12-05:00</timeStamp>
+    <typeFullName>
+      <string>Hunter</string>
+      <string>Hunter+ArrowType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>96f9d2d620f349941b1189103503ca96</guid>
+    <fileName>Assets/Scripts/Player/RopeController.cs</fileName>
+    <timeStamp>2020-05-28T19:27:16-05:00</timeStamp>
+    <typeFullName>
+      <string>RopeController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9806d3d982c7be44382cbd8fc6148600</guid>
+    <fileName>Assets/Scripts/Player/SwingBlock.cs</fileName>
+    <timeStamp>2020-05-27T02:04:55-05:00</timeStamp>
+    <typeFullName>
+      <string>SwingBlock</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1cf4a6a2161f7fb4b847f02bdd84d783</guid>
+    <fileName>Assets/Scripts/UI/ArrowsPanel.cs</fileName>
+    <timeStamp>2020-05-26T17:11:35-05:00</timeStamp>
+    <typeFullName>
+      <string>ArrowsPanel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>992b771b0b7716e48922753960ef61c7</guid>
+    <fileName>Assets/Scripts/UI/HealthBar.cs</fileName>
+    <timeStamp>2020-05-28T23:57:07-05:00</timeStamp>
+    <typeFullName>
+      <string>HealthBar</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>923aa2a283e5f2d4eb0fa5db04b1c476</guid>
+    <fileName>Assets/Scripts/UI/MainMenu.cs</fileName>
+    <timeStamp>2020-05-28T20:51:18-05:00</timeStamp>
+    <typeFullName>
+      <string>MainMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3eb5b14793e2d2d4195196b5bdb57e37</guid>
+    <fileName>Assets/Scripts/UI/PauseManager.cs</fileName>
+    <timeStamp>2020-05-27T20:40:38-05:00</timeStamp>
+    <typeFullName>
+      <string>PauseManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>62f82b38f7fecf343a110487c8d277f4</guid>
+    <fileName>Assets/Scripts/UI/Score.cs</fileName>
+    <timeStamp>2020-05-28T18:18:24-05:00</timeStamp>
+    <typeFullName>
+      <string>Score</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7c1e24801a9b90149bd52b5a6ead7603</guid>
+    <fileName>Assets/Scripts/UI/TextHelper.cs</fileName>
+    <timeStamp>2020-05-27T14:44:24-05:00</timeStamp>
+    <typeFullName>
+      <string>TextHelper</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>

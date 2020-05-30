@@ -1,16 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class FuzzyController : MonoBehaviour {
 
     public Hunter hunter;
-
-    /*
-    public AudioSource myFx;
-    //Attract.mp3
-    public AudioClip dizzy;
-    */
     public float movingDistance = .2f;
     public float Speed = .4f;
 
@@ -18,7 +10,6 @@ public class FuzzyController : MonoBehaviour {
     Vector3 _pong;
 
     Vector3 _target;
-    // Start is called before the first frame update
     void Start()
     {
         _ping = this.transform.position + new Vector3(0,this.transform.position.y+movingDistance,0);
@@ -26,7 +17,6 @@ public class FuzzyController : MonoBehaviour {
         _target = _ping;
     }
 
-    // Update is called once per frame
     void Update()
     {
         move();
@@ -50,8 +40,10 @@ public class FuzzyController : MonoBehaviour {
     }
     void OnCollisionEnter2D (Collision2D other) {
         if(other.gameObject.CompareTag("Player")){
+            FindObjectOfType<AudioManager>().Play("Attract");
             Destroy(this.gameObject);
             hunter.drug();
+            Hunter.givePoints(25);
         }
     }
 }

@@ -9,6 +9,7 @@ public class AudioManager : MonoBehaviour
 
 	[Header ("Sounds")]
 	public Sound[] sounds;
+	private Sound s;
 
 	void Awake()
 	{
@@ -23,16 +24,33 @@ public class AudioManager : MonoBehaviour
     void Start() {
         Play("Theme");
     }
+	private void Update() {
+		if(PauseManager.gameIsPaused){
+			s.source.volume=0.25f;
+		}else{
+			s.source.volume=0.5f;
+		}
+	}
 
 	public void Play(string sound)
 	{
-		Sound s = Array.Find(sounds, item => item.name == sound);
+		s = Array.Find(sounds, item => item.name == sound);
+		if (s == null)
+		{
+			Debug.LogWarning("Sound: " + sound + " not found!");
+			return;
+		}
+		s.source.Play();
+	}
+
+	public void Pause(string sound){
+		s = Array.Find(sounds, item => item.name == sound);
 		if (s == null)
 		{
 			Debug.LogWarning("Sound: " + name + " not found!");
 			return;
 		}
-		s.source.Play();
+		s.source.Pause();
 	}
 
 }
